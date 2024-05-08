@@ -6,7 +6,7 @@
 | Git init | Iniciar um repositório git |
 | Git clone | Cria uma cópia local de um repositório Git existente |
 | Git rm | Remove arquivos
-| Git commit | Faz um commit |
+| Git commit -m | Faz um commit |
 | Git status | Exibe o status atual do repositório git |
 | Git add | Adiciona arquivos selecionados ou digite "**.**" para adicionar tudo |
 | Git log | Exibe o histórico de commits |
